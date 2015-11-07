@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[roetgers.org]]></title>
         <description><![CDATA[roetgers.org]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.roetgers.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 18:17:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 22:06:22 GMT</lastBuildDate>
+        <atom:link href="http://www.roetgers.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test Post]]></title>
-            <description><![CDATA[<article><h1>Test Post</h1><p>This is a test.</p></article>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <description><![CDATA[<article><h1>Test Post</h1><p>This is a test.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/779f2cdb-3753-4398-ad7d-57ff043bf0b2.jpg"></article>]]></description>
+            <link>http://www.roetgers.org/test-post/index.html</link>
             <guid isPermaLink="false">6c31a707-fb4c-4140-8623-0e91e1768fc8</guid>
-            <pubDate>Sat, 07 Nov 2015 18:17:39 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2015 22:06:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
