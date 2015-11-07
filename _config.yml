@@ -2,6 +2,7 @@ name: rtg
 favicon: null
 layout_spectrum: 0.29218643880449235
 typography_spectrum: 0.602522257482633
+title: roetgers.org
 cta:
   domain: null
   bucket: null
