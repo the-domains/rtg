@@ -1,0 +1,23 @@
+name: rtg
+favicon: null
+layout_spectrum: 0.29218643880449235
+typography_spectrum: 0.602522257482633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5928016745019704
+  lightness: 0.859415072016418
+  saturation: 0.3564215775113553
+  rhythmicContrast: 0.47838536999188364
+purpose: []
