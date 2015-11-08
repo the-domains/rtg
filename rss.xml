@@ -4,14 +4,14 @@
         <description><![CDATA[roetgers.org]]></description>
         <link>http://www.roetgers.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 19:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2015 19:55:14 GMT</lastBuildDate>
         <atom:link href="http://www.roetgers.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is a test.]]></title>
             <description><![CDATA[<article><h1>This is a test.</h1><p>The description</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/779f2cdb-3753-4398-ad7d-57ff043bf0b2.jpg"></article>]]></description>
             <link>http://www.roetgers.org/test-post/index.html</link>
             <guid isPermaLink="false">6c31a707-fb4c-4140-8623-0e91e1768fc8</guid>
-            <pubDate>Sun, 08 Nov 2015 19:53:07 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2015 19:55:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
