@@ -4,13 +4,14 @@
         <description><![CDATA[roetgers.org]]></description>
         <link>http://www.roetgers.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 21:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 21:37:07 GMT</lastBuildDate>
         <atom:link href="http://www.roetgers.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a test 123</p>]]></description>
             <link>https://gist.github.com/8756983f8cd16757e534</link>
             <guid isPermaLink="false">8e1f3003-9803-41ce-94ff-34267a12d01f</guid>
-            <pubDate>Mon, 28 Mar 2016 21:34:38 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2016 21:37:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
