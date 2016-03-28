@@ -1,7 +1,7 @@
 name: rtg
 favicon: null
-layout_spectrum: 0.24349
-typography_spectrum: 0.36607
+layout_spectrum: 1
+typography_spectrum: 0.36756
 title: roetgers.org
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#f7d1be'
     - '#6d7276'
     - '#8aacc8'
-  brandStrength: 0.75
+  brandStrength: 0.6875
   lightness: 0.859415072016418
   saturation: 0.3564215775113553
   rhythmicContrast: 0.47838536999188364
