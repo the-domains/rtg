@@ -4,14 +4,14 @@
         <description><![CDATA[roetgers.org]]></description>
         <link>http://www.roetgers.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 19:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 19:07:39 GMT</lastBuildDate>
         <atom:link href="http://www.roetgers.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/123cd24b-3e40-4071-8011-53f01ea16b7c.jpg" alt="" title="">]]></description>
-            <link>http://www.roetgers.org/773e3b48-4a46-4fe8-8142-d72dd5fa6832/index.html</link>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/123cd24b-3e40-4071-8011-53f01ea16b7c.jpg</link>
             <guid isPermaLink="false">773e3b48-4a46-4fe8-8142-d72dd5fa6832</guid>
-            <pubDate>Sun, 17 Jul 2016 19:04:24 GMT</pubDate>
+            <pubDate>Sun, 17 Jul 2016 19:07:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
